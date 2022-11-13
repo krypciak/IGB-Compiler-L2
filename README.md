@@ -366,7 +366,7 @@ raw Init 5.3 70;
 ## Dependencies:
 - [FreeArgParser-Java](https://github.com/krypciak/FreeArgParser-Java)
 - [IGB-Compiler-L1](https://github.com/krypciak/IGB-Compiler-L1)
-- [Utils](https://github.com/krypciak/Utils)
+- [Java-Utils](https://github.com/krypciak/Utils)
 
 
 # License
